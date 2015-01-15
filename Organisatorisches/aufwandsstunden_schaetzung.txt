@@ -1,0 +1,36 @@
+----------------------
+Variante A
+----------------------
+=> DYNK_2011_AUT, NACE2
+
+DAUER: ~5-6 Wochen // 25-30 Tage mindestens
+
+- SUT-Daten für AUT 2011/2010(lags) aufbereiten    	== 3 Tage
+- Modell-Code auf 64 Sektoren (NACE2) umstellen   	== 15 Tage	
+- Modell-Kalibrieren (auf 2011)    					== 3 Tage
+- Literatur Suche Modell-Koeffizienten     			== 3 Tage
+  (Translog Energie, Produktion)    				
+- Ergebnisbeschreibung & Darstellung		    	==	2-3 Tage					
+
+
+
+
+
+
+
+
+
+
+
+----------------------
+Variante B(illig)
+----------------------
+=> DYNK_2007; mit AUT Daten ; NACE1
+
+DAUER: ~3-4 Wochen // 15-20 Tage
+
+- SUT-AUT in DYNK aufbereiten   		== 6-8 Tage
+- Modell-Kalibrieren					== 6-8 Tage
+- Ergebnisbeschreibung & Darstellung	
+  plus Korrekturen Rücksprache usw...   == 2-3 Tage
+
