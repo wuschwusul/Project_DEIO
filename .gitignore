@@ -1,0 +1,9 @@
+*.pyc
+Modell/other_models/*
+Modell/extract_variables/*
+Modell/codeAutomat/*
+Modell/dataAutomat/_arch/*
+Dokumentation/*
+_arch/*
+*.xlsx
+Data/*
